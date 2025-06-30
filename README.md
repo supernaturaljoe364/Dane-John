@@ -7,5 +7,4 @@ ABOUT ME:
 https://codeforces.com/profile/Akaei_
 
 
-![Dane's GitHub stats](https://github-readme-stats.vercel.app/api?username=danejohn&show_icons=true)
-
+https://github-readme-stats.vercel.app/api?username=danejohn&show_icons=true&theme=radical
