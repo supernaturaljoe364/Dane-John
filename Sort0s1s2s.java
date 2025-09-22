@@ -2,7 +2,7 @@ package learningJava;
 import java.util.Arrays;
 
 
-//USING THE DRY RUN/ DUTCH NATIONAL FLAG ALGORITHM
+//USING THE DUTCH NATIONAL FLAG ALGORITHM
 public class Sort0s1s2s {
 
     public static void main(String[] args) {
